@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "xcom2mod:item/alien_alloys"
+  }
+}
